@@ -1,0 +1,7 @@
+{
+    "employees":[
+        {"firstNmae":"Bill" , "lastName":"Gates"},
+        {"firstNmae":"George" , "lastName":"Bush"},
+        {"firstNmae":"Thomas" , "lastName":"Carter"}
+    ]
+}

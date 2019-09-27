@@ -1,0 +1,14 @@
+{
+	"Age" : 26,
+	"E-mail" : 
+	{
+		"Hotmail" : "liming.shao@hotmail.com",
+		"Netease" : "lmshao@163.com"
+	},
+	"Language" : 
+	[
+		"c++",
+		"java"
+	],
+	"Name" : "Liming"
+}

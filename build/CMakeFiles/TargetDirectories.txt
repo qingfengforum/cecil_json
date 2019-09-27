@@ -1,0 +1,3 @@
+/home/qf/01_qfCodelib/QfCodeLib/modules/JSON/build/CMakeFiles/edit_cache.dir
+/home/qf/01_qfCodelib/QfCodeLib/modules/JSON/build/CMakeFiles/rebuild_cache.dir
+/home/qf/01_qfCodelib/QfCodeLib/modules/JSON/build/CMakeFiles/json_lean.dir

@@ -1,0 +1,1 @@
+g++ -o ../output/json_test ../src/*.cpp ../src/tools/*.cpp -I../src -std=c++11

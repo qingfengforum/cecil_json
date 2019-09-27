@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11   CMakeFiles/json_lean.dir/src/json_in_cpp_main.cpp.o CMakeFiles/json_lean.dir/src/JsonTool.cpp.o CMakeFiles/json_lean.dir/src/tools/jsoncpp.cpp.o  -o json_lean 
